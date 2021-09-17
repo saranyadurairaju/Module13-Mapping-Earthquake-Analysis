@@ -1,2 +1,2 @@
-# Module13-Mapping-Earthquake-Analysis
-Javascript
+# Module13-Mapping-Earthquakes
+Javascript API
